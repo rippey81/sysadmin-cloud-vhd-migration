@@ -75,4 +75,4 @@ This migration project bridges traditional sysadmin training with cloud infrastr
 
 - The importance of cloud-readiness and backup migration options
 
-## 🚀 This lab is part of the Sysadmin-Lab project (https://github.com/rippey81/sysadmin-lab) to showcase hands-on experience in enterprise and cloud infrastructure.
+## 🚀 This lab is part of the Hybrid Sysadmin Bootcamp project (https://github.com/rippey81/hybrid-sysadmin-bootcamp/) to showcase hands-on experience in enterprise and cloud infrastructure.
